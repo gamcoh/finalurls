@@ -4,7 +4,7 @@
 	"description": "Replace all the urls in the hrefs by their final urls",
 	"publisher": "Gamcoh",
 	"repository": "https://github.com/gamcoh/finalurls",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"icon": "images/finalurls.png",
 	"engines": {
 		"vscode": "^1.36.0"
